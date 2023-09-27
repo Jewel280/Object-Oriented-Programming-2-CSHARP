@@ -1,0 +1,16 @@
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\bin\Debug\Covid-19 Helping management System.exe.config
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\bin\Debug\Covid-19 Helping management System.exe
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\bin\Debug\Covid-19 Helping management System.pdb
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid-19 Helping management System.csproj.AssemblyReference.cache
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid-19 Helping management System.csproj.SuggestedBindingRedirects.cache
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid_19_Helping_management_System.Properties.Resources.resources
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid-19 Helping management System.csproj.GenerateResource.cache
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid-19 Helping management System.csproj.CoreCompileInputs.cache
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid-19 Helping management System.exe
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid-19 Helping management System.pdb
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid_19_Helping_management_System.coronaRisktest.resources
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid_19_Helping_management_System.home.resources
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid_19_Helping_management_System.patientDetails.resources
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid_19_Helping_management_System.Form3.resources
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid_19_Helping_management_System.Form4.resources
+H:\All\C#\Covid-19 Helping management System\Covid-19 Helping management System\obj\Debug\Covid_19_Helping_management_System.Form5.resources
